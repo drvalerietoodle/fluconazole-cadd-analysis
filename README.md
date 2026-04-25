@@ -11,7 +11,8 @@
 
 Fluconazole is a well-known antifungal. Structurally, it’s not designed to act in the brain.
 
-But in my own work, I’ve seen evidence suggesting potential neuroprotective effects.
+But in my own work, I’ve seen evidence suggesting potential neuroprotective effects. (This work builds on findings from my published research:
+Toodle, V. et al. (2022). "Fluconazole Is Neuroprotective via Interactions with the IGF-1 Receptor." Neurotherapeutics. DOI: 10.1007/s13311-022-01265-0)
 
 That raised a simple question:
 
@@ -78,7 +79,16 @@ And when they don’t, that’s where the interesting science starts.
 
 ---
 
+## Future Directions
+
+- Molecular docking analysis to explore fluconazole's interaction with the IGF-1 receptor
+  
+- ADMET profiling to further characterize CNS penetration likelihood
+  
+- Comparative analysis with other repurposed neuroprotective compounds
+
 ## File
 
 - `fluconazole_cadd_analysis.ipynb`
+
 
