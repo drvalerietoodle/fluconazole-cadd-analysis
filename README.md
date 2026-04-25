@@ -1,6 +1,6 @@
 # Fluconazole: When the Structure Doesn’t Match the Biology
 
-**Dr. Valerie Toodle**
+**Dr. Valerie Toodle**[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--4597--9832-green)](https://orcid.org/0009-0006-4597-9832)
 
 **Tools:** Python, RDKit, Pandas, Matplotlib  
 **Focus:** Computational drug analysis, molecular descriptors, CADD
